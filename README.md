@@ -1,5 +1,5 @@
 Screen shots
-Qn 1 a
+Qn 2 a
 
 <img width="539" height="197" alt="image" src="https://github.com/user-attachments/assets/5e4a3196-b561-406b-9e91-aedf0d8aec3f" />
 
